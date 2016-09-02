@@ -10,7 +10,7 @@ An app that let’s us view the raw markdown on one side and the converted markd
 
 
 
-### Installation and Use
+### Installation and use
 
 1. Unpack the zip.
 2. Install the dependencies (``` npm install ```).
