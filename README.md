@@ -19,4 +19,4 @@ An app that let’s us view the raw markdown on one side and the converted markd
 
 
 
-**Note** : If you end up refreshing your page, then all your work will be lost. Wait a minute, **WTF**. Ya! I was looking for adding **ShareJS** to the backend (storing markdown files with **Redis**) and attaching it with the express server on ShareJS but I am not able to get their API references for now.
+**Note** : If you end up refreshing your page, then all your work will be lost. Wait a minute, **WTF**. Ya! I was looking for adding **ShareJS**(for real time communication) to the backend (storing markdown files with **Redis**) and attaching it with the express server on ShareJS but I am not able to get their API references for now.
